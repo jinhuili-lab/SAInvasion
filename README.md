@@ -4,12 +4,11 @@
 #### Usage
 ```
 # Method 1. Web pages.
-Visit the SAInvasion model website by Clicking https://microbiosee.gxu.edu.cn/ma_sa_predict/) .
-https://microbiosee.gxu.edu.cn/ma_sa_predict
+Visit the SAInvasion model website by Clicking https://microbiosee.gxu.edu.cn/ma_sa_predict/.
+
 # Method 2.  Raw code.
 git clone https://github.com/jinhuili-lab/SAInvasion
-cd SAInvasion
-# Then you can use the model by Rstudio(Posit).
+cd SAInvasion # Then you can use the model by Rstudio(Posit).
 ```
 #### Cite us
 > Shuming, Mo, et al. SAInvasion: A machine learning model for Spartina alterniflora invasion with high accuracy based on soil macroecological patterns. 
