@@ -4,7 +4,7 @@
 #### Usage
 ```
 # Method 1. Web pages.
-Click [SAInvasion](https://microbiosee.gxu.edu.cn/ma_sa_predict/) model.
+Visit the SAInvasion model website by Clicking https://microbiosee.gxu.edu.cn/ma_sa_predict/) .
 https://microbiosee.gxu.edu.cn/ma_sa_predict
 # Method 2.  Raw code.
 git clone https://github.com/jinhuili-lab/SAInvasion
